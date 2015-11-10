@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.advantageous.qbit:qbit-admin:0.9.1.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-admin/0.9.1.RELEASE/65c8ebe3269b3800a66802ea91aca711f07ec3de/qbit-admin-0.9.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-admin/0.9.1.RELEASE/7681369158f1c3ea47a8187656d866441794e44e/qbit-admin-0.9.1.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
