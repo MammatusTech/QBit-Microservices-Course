@@ -38,10 +38,11 @@
         <entry key="$USER_HOME$/cassandra-crud" value="2892104257000" />
         <entry key="$USER_HOME$/code-testing/Spark-Course" value="2885785433000" />
         <entry key="$USER_HOME$/code-testing/spark-cassandra" value="2885785433000" />
-        <entry key="$PROJECT_DIR$" value="2894270077000" />
+        <entry key="$PROJECT_DIR$" value="4341749745000" />
         <entry key="$PROJECT_DIR$/../cassandra-crud" value="2864035296000" />
         <entry key="$PROJECT_DIR$/../hello" value="2848407170000" />
         <entry key="$PROJECT_DIR$/../hello-world" value="2894268150000" />
+        <entry key="$PROJECT_DIR$/../qbit" value="2871579314000" />
         <entry key="$PROJECT_DIR$/../qbit/admin" value="2847591674000" />
         <entry key="$PROJECT_DIR$/../qbit/cassandra-crud" value="2865891947000" />
         <entry key="$PROJECT_DIR$/../qbit/cassandra-kv-pairs" value="2874790559000" />
@@ -83,6 +84,7 @@
         <entry key="$PROJECT_DIR$/../qbit/worker-callback-blocking" value="2858892226000" />
         <entry key="$PROJECT_DIR$/../qbit/worker-callback-nonblockin2" value="2853586063000" />
         <entry key="$PROJECT_DIR$/../qbit/worker-callback-nonblocking" value="2860527641000" />
+        <entry key="$PROJECT_DIR$/../reactor" value="2894614124000" />
         <entry key="$USER_HOME$/expamples/qbit/todo-service" value="2841684243000" />
         <entry key="$USER_HOME$/github/hello" value="2847747936000" />
         <entry key="$USER_HOME$/github/inproc-microservice-qbit" value="2848638876000" />
@@ -95,7 +97,7 @@
         <entry key="$USER_HOME$/qbit" value="8648081030000" />
         <entry key="$USER_HOME$/reactor-scala" value="2891842466000" />
         <entry key="$USER_HOME$/releases/boon" value="2892169070000" />
-        <entry key="$USER_HOME$/releases/qbit" value="10125599558000" />
+        <entry key="$USER_HOME$/releases/qbit" value="7236010060000" />
         <entry key="$USER_HOME$/research/todo-solr-5.1" value="2864342883000" />
         <entry key="$USER_HOME$/scala_examples/headers-hello-word-scala" value="2889971559000" />
         <entry key="$USER_HOME$/scala_examples/hello-world" value="2889729752000" />
@@ -119,7 +121,7 @@
   <component name="ProjectModuleManager">
     <modules />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="PropertiesComponent">
@@ -143,6 +145,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -171,19 +186,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
