@@ -3,6 +3,11 @@ version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
 
+task runReactor(type: JavaExec, dependsOn: 'classes') {
+    main = "com.mammatustech.hr.HRServiceMain"
+    classpath = sourceSets.main.runtimeClasspath
+
+}
 
 compileJava {
     sourceCompatibility = 1.8
