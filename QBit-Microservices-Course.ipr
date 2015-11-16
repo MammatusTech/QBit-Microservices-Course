@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Cassandra-Course" value="2892105811000" />
+        <entry key="$USER_HOME$/boon" value="2882677739000" />
+        <entry key="$USER_HOME$/cassandra-crud" value="2892104257000" />
+        <entry key="$USER_HOME$/code-testing/Spark-Course" value="2885785433000" />
+        <entry key="$USER_HOME$/code-testing/spark-cassandra" value="2885785433000" />
+        <entry key="$PROJECT_DIR$" value="5790623207000" />
+        <entry key="$PROJECT_DIR$/../cassandra-crud" value="2864035296000" />
+        <entry key="$PROJECT_DIR$/../hello" value="2848407170000" />
+        <entry key="$PROJECT_DIR$/../hello-world" value="2894268150000" />
+        <entry key="$PROJECT_DIR$/../qbit" value="2871579314000" />
+        <entry key="$PROJECT_DIR$/../qbit/admin" value="2847591674000" />
+        <entry key="$PROJECT_DIR$/../qbit/cassandra-crud" value="2865891947000" />
+        <entry key="$PROJECT_DIR$/../qbit/cassandra-kv-pairs" value="2874790559000" />
+        <entry key="$PROJECT_DIR$/../qbit/cassandra-spark" value="2865891983000" />
+        <entry key="$PROJECT_DIR$/../qbit/cassandrakvpairs" value="2874656093000" />
+        <entry key="$PROJECT_DIR$/../qbit/echo-websocket" value="2861459677000" />
+        <entry key="$PROJECT_DIR$/../qbit/echo-websocket1" value="2854119107000" />
+        <entry key="$PROJECT_DIR$/../qbit/event-bus-system-qbit" value="2875231702000" />
+        <entry key="$PROJECT_DIR$/../qbit/event-channels-qbit" value="2861406117000" />
+        <entry key="$PROJECT_DIR$/../qbit/hello" value="2857933485000" />
+        <entry key="$PROJECT_DIR$/../qbit/hello-test" value="2850825122000" />
+        <entry key="$PROJECT_DIR$/../qbit/inproc-microservice-qbit" value="2858038193000" />
+        <entry key="$PROJECT_DIR$/../qbit/inproc-microservice-qbit-old" value="2848638876000" />
+        <entry key="$PROJECT_DIR$/../qbit/microservices-using-qbit" value="2862694795000" />
+        <entry key="$PROJECT_DIR$/../qbit/ping-rest" value="2871583797000" />
+        <entry key="$PROJECT_DIR$/../qbit/qbit" value="11410137541000" />
+        <entry key="$PROJECT_DIR$/../qbit/qbit-with-spring-boot" value="2860887063000" />
+        <entry key="$PROJECT_DIR$/../qbit/qbit-with-spring-boot1" value="2854358008000" />
+        <entry key="$PROJECT_DIR$/../qbit/qbit-worker-callbacks" value="2850317898000" />
+        <entry key="$PROJECT_DIR$/../qbit/research/cassandra-crud" value="2868485272000" />
+        <entry key="$PROJECT_DIR$/../qbit/research/cassandra-spark" value="2866369252000" />
+        <entry key="$PROJECT_DIR$/../qbit/research/spark-cassandra" value="2868816547000" />
+        <entry key="$PROJECT_DIR$/../qbit/research/statsd-testing" value="2869279259000" />
+        <entry key="$PROJECT_DIR$/../qbit/research/todo-solr-5.1" value="2867758546000" />
+        <entry key="$PROJECT_DIR$/../qbit/simpel-rest-server" value="2847288908000" />
+        <entry key="$PROJECT_DIR$/../qbit/simple-rest-server" value="2869553476000" />
+        <entry key="$PROJECT_DIR$/../qbit/simple-rest-server-with-uri-params" value="2860853001000" />
+        <entry key="$PROJECT_DIR$/../qbit/simple-rest-server-with-uri-params1" value="2854289707000" />
+        <entry key="$PROJECT_DIR$/../qbit/spark-cassandra" value="2868816547000" />
+        <entry key="$PROJECT_DIR$/../qbit/todo-list-app" value="2868188015000" />
+        <entry key="$PROJECT_DIR$/../qbit/todo-list-app-old" value="2849262889000" />
+        <entry key="$PROJECT_DIR$/../qbit/todo-list-app1" value="2849262889000" />
+        <entry key="$PROJECT_DIR$/../qbit/todo-service" value="2860285141000" />
+        <entry key="$PROJECT_DIR$/../qbit/todo-service-websocket-client" value="2855791702000" />
+        <entry key="$PROJECT_DIR$/../qbit/todo-solr-5.1" value="2864342883000" />
+        <entry key="$PROJECT_DIR$/../qbit/todo-with-solr" value="2863282161000" />
+        <entry key="$PROJECT_DIR$/../qbit/todowithsolr" value="2863212826000" />
+        <entry key="$PROJECT_DIR$/../qbit/usinggradleplugin" value="2862641130000" />
+        <entry key="$PROJECT_DIR$/../qbit/worker-callback-blocking" value="2858892226000" />
+        <entry key="$PROJECT_DIR$/../qbit/worker-callback-nonblockin2" value="2853586063000" />
+        <entry key="$PROJECT_DIR$/../qbit/worker-callback-nonblocking" value="2860527641000" />
+        <entry key="$PROJECT_DIR$/../reactor" value="2894614124000" />
+        <entry key="$USER_HOME$/expamples/qbit/todo-service" value="2841684243000" />
+        <entry key="$USER_HOME$/github/hello" value="2847747936000" />
+        <entry key="$USER_HOME$/github/inproc-microservice-qbit" value="2848638876000" />
+        <entry key="$USER_HOME$/github/qbit" value="11422949296000" />
+        <entry key="$USER_HOME$/github/simple-rest-server" value="2846758355000" />
+        <entry key="$USER_HOME$/github/testing examples from git hub/todo-service" value="2853227638000" />
+        <entry key="$USER_HOME$/github/updated_examples/todo-service" value="2853110060000" />
+        <entry key="$USER_HOME$/gradle-bintray-plugin" value="1435298565000" />
+        <entry key="$USER_HOME$/q/qbit" value="11477199850000" />
+        <entry key="$USER_HOME$/qbit" value="8648081030000" />
+        <entry key="$USER_HOME$/reactor-scala" value="2891842466000" />
+        <entry key="$USER_HOME$/releases/boon" value="2892169070000" />
+        <entry key="$USER_HOME$/releases/qbit" value="7236010060000" />
+        <entry key="$USER_HOME$/research/todo-solr-5.1" value="2864342883000" />
+        <entry key="$USER_HOME$/scala_examples/headers-hello-word-scala" value="2889971559000" />
+        <entry key="$USER_HOME$/scala_examples/hello-world" value="2889729752000" />
+        <entry key="$USER_HOME$/scala_examples/hello-world-scala" value="2889723550000" />
+        <entry key="$USER_HOME$/scala_examples/reactor-scala" value="2889914761000" />
+        <entry key="$USER_HOME$/spark-cassandra" value="2868816547000" />
+        <entry key="$USER_HOME$/test" value="2847031320000" />
+      </map>
+    </option>
+  </component>
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/event-bus-system-qbit" />
+            <option value="$PROJECT_DIR$/hello-world" />
+            <option value="$PROJECT_DIR$/reactor" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QBit-Microservices-Course.iml" filepath="$PROJECT_DIR$/QBit-Microservices-Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event-bus-system-qbit/event-bus-system-qbit.iml" filepath="$PROJECT_DIR$/event-bus-system-qbit/event-bus-system-qbit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactor/reactor.iml" filepath="$PROJECT_DIR$/reactor/reactor.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="Gradle: ch.qos.logback:logback-classic:1.1.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Gradle: ch.qos.logback:logback-core:1.1.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.6.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0/a0990e2e812ac6639b6ce955c91b13228500476e/jackson-annotations-2.6.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0/7bcb615d523d88acbc121c92aafeba8d37a83792/jackson-annotations-2.6.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.fasterxml.jackson.core:jackson-core:2.6.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.1/892d15011456ea3563319b27bdd612dbc89bb776/jackson-core-2.6.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.1/c0063bb450c53bfa3136dc868e1062d714187e2/jackson-core-2.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.6.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.1/45c37a03be19f3e0db825fd7814d0bbec40b9e0/jackson-databind-2.6.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.1/56c55af2ce78286195b16521a82b331cc92cae0/jackson-databind-2.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.advantageous.boon:boon-json:0.5.6.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.5.6.RELEASE/1d40245567b452009ebf6c871a11a8f6eb88adac/boon-json-0.5.6.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.5.6.RELEASE/d30cfbf16666c39f2d3cba97584fd453e2016be0/boon-json-0.5.6.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.advantageous.boon:boon-reflekt:0.5.6.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.5.6.RELEASE/c54d53c2e356908f9a1deae4f623f4b6b31206a/boon-reflekt-0.5.6.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.5.6.RELEASE/a341ef581b794f5a1a9ea2df69c389ac253881d8/boon-reflekt-0.5.6.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.advantageous.qbit:qbit-admin:0.9.1.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-admin/0.9.1.RELEASE/65c8ebe3269b3800a66802ea91aca711f07ec3de/qbit-admin-0.9.1.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-admin/0.9.1.RELEASE/7681369158f1c3ea47a8187656d866441794e44e/qbit-admin-0.9.1.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.advantageous.qbit:qbit-consul-client:0.9.1.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-consul-client/0.9.1.RELEASE/ed31aecc6d3b33c8a7f03d66b6a9f16a843d7f9c/qbit-consul-client-0.9.1.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-consul-client/0.9.1.RELEASE/d82224720ac1a6bb07151cc0ce0569037a5a46d1/qbit-consul-client-0.9.1.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.advantageous.qbit:qbit-core:0.9.1.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.9.1.RELEASE/ad65fdcc1d4ef34c4f99bf6c446f4645137a56b9/qbit-core-0.9.1.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.9.1.RELEASE/bf443bf31ee0324abf8ef9e193b8f516bf930f3b/qbit-core-0.9.1.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.advantageous.qbit:qbit-vertx:0.9.1.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.9.1.RELEASE/99a5813fb41bdbce36c2b96661cdf66240bd2502/qbit-vertx-0.9.1.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.9.1.RELEASE/68427d912320e87b6e7f4e8b5de7916685668890/qbit-vertx-0.9.1.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.netty:netty-buffer:4.0.31.Final">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.31.Final/68d1c5030a2c7dccee85a1dd7a4ab442b7ece816/netty-buffer-4.0.31.Final.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.0.31.Final/dd019a58bb4b906ef26e212f84a15fcf76177ba1/netty-buffer-4.0.31.Final-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.netty:netty-codec-http:4.0.31.Final">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.31.Final/bdc40b2b094a15f554e176b0602b2d9867e057ab/netty-codec-http-4.0.31.Final.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.0.31.Final/93228ffba71381a9f5dc64da1a8ccdec681e83df/netty-codec-http-4.0.31.Final-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.netty:netty-codec:4.0.31.Final">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.31.Final/2c3b6af3fb5cbd5678d4d70601d8e0ec03170c6c/netty-codec-4.0.31.Final.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.0.31.Final/486095c078058131a99a77ad41824f7ca419a890/netty-codec-4.0.31.Final-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.netty:netty-common:4.0.31.Final">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.31.Final/43de35e5da2c2aa57a3c50b633257b07d871aa09/netty-common-4.0.31.Final.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.0.31.Final/2cc38818e72591fa6dc843bb0f8addfcbe227f89/netty-common-4.0.31.Final-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.netty:netty-handler:4.0.31.Final">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.31.Final/61f50e42451104477d8903b9afff6421b6bdf9ac/netty-handler-4.0.31.Final.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.0.31.Final/e51cb92797fad9f49b09acb6bd2c23db825e4cfb/netty-handler-4.0.31.Final-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.netty:netty-transport:4.0.31.Final">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.31.Final/19d3545680718a880d16bd52076a471158b9929d/netty-transport-4.0.31.Final.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.0.31.Final/8e9d9e4a6958282f68437548441e90c02d8e04ed/netty-transport-4.0.31.Final-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.vertx:vertx-auth-common:3.1.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-auth-common/3.1.0/4012e638eed760f580bd14539931b303306d7aed/vertx-auth-common-3.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-auth-common/3.1.0/15f74fb2504892fb25d26f68e7c4cfe4fa661001/vertx-auth-common-3.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.vertx:vertx-core:3.1.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-core/3.1.0/52e7f3092becd8bae7a48779384ddcbe5d06757c/vertx-core-3.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-core/3.1.0/def38bac6f443c1addb30ad98abfc38cee4b84db/vertx-core-3.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.vertx:vertx-web:3.1.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web/3.1.0/df8b2c3cc371bc496d7af28982353c72ae151aae/vertx-web-3.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web/3.1.0/dc716f97ca7b598533e1f3b5bc19dd81b49e1704/vertx-web-3.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: junit:junit:4.10">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.10/e4f1766ce7404a08f45d859fb9c226fc9e41a861/junit-4.10.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.10/6c98d6766e72d5575f96c9479d1c1d3b865c6e25/junit-4.10-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: junit:junit:4.11">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.hamcrest:hamcrest-core:1.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Gradle: org.hamcrest:hamcrest-core:1.3">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.slf4j:slf4j-api:1.7.13">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.13/7fcf30c25b8f4a9379b9dad0d3f487b25272c026/slf4j-api-1.7.13.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.13/96e785df399a4e1a6c030877097807b7e18520cc/slf4j-api-1.7.13-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -27,9 +27,6 @@ import static io.advantageous.qbit.service.ServiceBuilder.serviceBuilder;
 import static io.advantageous.qbit.service.ServiceContext.serviceContext;
 import static io.advantageous.qbit.service.ServiceProxyUtils.flushServiceProxy;
 
-/**
- * Created by rhightower on 2/4/15.
- */
 public class EmployeeEventExampleUsingSystemEventBus {
 
     public static final String NEW_HIRE_CHANNEL = "com.mycompnay.employee.new";
@@ -66,7 +63,7 @@ public class EmployeeEventExampleUsingSystemEventBus {
 
         EmployeeHiringServiceClient employeeHiringServiceClientProxy = employeeHiringServiceQueue.createProxy(EmployeeHiringServiceClient.class);
 
-        employeeHiringServiceClientProxy.hireEmployee(new Employee("Rick", 1));
+        employeeHiringServiceClientProxy.hireEmployee(new Employee("Fadi", 1));
 
         flushServiceProxy(employeeHiringServiceClientProxy);
 

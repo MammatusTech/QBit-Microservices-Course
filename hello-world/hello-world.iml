@@ -16,6 +16,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Gradle: io.advantageous.qbit:qbit-admin:0.9.1.RELEASE" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io.advantageous.qbit:qbit-vertx:0.9.1.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.slf4j:slf4j-api:1.7.13" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io.advantageous.qbit:qbit-core:0.9.1.RELEASE" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io.advantageous.qbit:qbit-consul-client:0.9.1.RELEASE" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io.vertx:vertx-core:3.1.0" level="project" />
@@ -34,6 +35,5 @@
     <orderEntry type="library" exported="" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.6.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: org.slf4j:slf4j-api:1.7.13" level="project" />
   </component>
 </module>
